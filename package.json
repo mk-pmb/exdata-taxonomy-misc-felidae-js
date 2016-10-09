@@ -1,0 +1,30 @@
+{ "name": "exdata-taxonomy-misc-felidae",
+  "version": "0.1.0",
+  "description": "Tree structure example data. A subset of the species tree.",
+  "keywords": [ "example data", "tree", "felidae", "taxonomy" ],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/exdata-taxonomy-misc-felidae-js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/exdata-taxonomy-misc-felidae-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/exdata-taxonomy-misc-felidae-js/issues"
+  },
+
+  "private": false, "license": "ISC",
+
+  "main": "felidae.js",
+  "scripts": { "test": "nodejs test/taxo12.js" },
+  "directories": {
+    "doc": "doc",
+    "test": "test"
+  },
+
+  "dependencies": {},
+  "devDependencies": {},
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}

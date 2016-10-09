@@ -1,0 +1,42 @@
+﻿{ "": "family", "id": "Felidae",
+  "Pantherinae": { "": "subfamily",
+    "Panthera": { "": "genus",
+      "leo": { "": "species", "wp-en": { "": "wp", "oldid": 741625599 } },
+      "onca": { "": "species", "wp-en": { "": "wp", "oldid": 742285076 } },
+      "pardus": { "": "species", "wp-en": { "": "wp", "oldid": 743104578 } },
+      "wp-en": { "": "wp", "oldid": 742606678 }
+    },
+    "Neofelis": { "": "genus",
+      "nebulosa": { "": "species", "wp-en": { "": "wp", "oldid": 742251401 } },
+      "wp-en": { "": "wp", "oldid": 734888346 }
+    },
+    "wp-en": { "": "wp", "oldid": 736789580 }
+  },
+  "Felinae": { "": "subfamily",
+    "Lynx": { "": "genus",
+      "rufus": { "": "species", "wp-en": { "": "wp", "oldid": 742216395 } },
+      "wp-en": { "": "wp", "oldid": 743398978 }
+    },
+    "Prionailurus": { "": "genus",
+      "bengalensis": { "": "species",
+        "iriomotensis": { "": "subspecies",
+          "wp-en": { "": "wp", "oldid": 737571041 }
+        },
+        "wp-en": { "": "wp", "oldid": 743366386 }
+      },
+      "wp-en": { "": "wp", "oldid": 736588429 }
+    },
+    "Otocolobus": { "": "genus",
+      "manul": { "": "species", "wp-en": { "": "wp", "oldid": 742853044 } },
+      "wp-en": { "": "wp", "oldid": 723217154 }
+    },
+    "Felis": { "": "genus",
+      "silvestris": { "": "species",
+        "wp-en": { "": "wp", "oldid": 740658912 }
+      },
+      "wp-en": { "": "wp", "oldid": 733159462 }
+    },
+    "wp-en": { "": "wp", "oldid": 740542430 }
+  },
+  "wp-en": { "": "wp", "oldid": 742264157 }
+}
