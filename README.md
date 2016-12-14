@@ -14,6 +14,9 @@ Usage
 -----
 see [test/taxo12.js](test/taxo12.js)
 
+  * `.taxo()` returns a deep copy of the data in
+    [lib/felidae.json](lib/felidae.json).
+
 
 <!--#toc stop="scan" -->
 
