@@ -19,6 +19,7 @@ module.exports = (function setup() {
 
   EX.taxo = treeUtil.deepCopy.prepare(taxo);
   EX.findPaths = treeUtil.searchIndex.bind(null, pathBy);
+  EX.findByType = treeUtil.findByType.bind(null, taxo);
 
   return EX;
 }());

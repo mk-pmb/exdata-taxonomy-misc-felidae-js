@@ -1,5 +1,5 @@
 { "name": "exdata-taxonomy-misc-felidae",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Tree structure example data. A subset of the species tree.",
   "keywords": [ "example data", "tree", "felidae", "taxonomy" ],
 
